@@ -17,4 +17,4 @@
 - LinkedIn:  https://www.linkedin.com/in/harish-thadka-059341196/
 - GitHub: https://github.com/harishThadka
 
-
+<img src="harish.jpg" width="150" height="150">
