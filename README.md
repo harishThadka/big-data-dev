@@ -12,7 +12,7 @@
 ## Future Plans
 - As I was experienced with web development, I'm interested to work on full stack web development.
 
-## Links
+## Here you can find me!
 
 - LinkedIn:  https://www.linkedin.com/in/harish-thadka-059341196/
 - GitHub: https://github.com/harishThadka
