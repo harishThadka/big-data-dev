@@ -1,6 +1,7 @@
 # big-data-dev
 # Preferred Name: Harish
 <img src="harish.jpg" width="150" height="150">
+
 ## Current
 - I'm a senior graduate student at NorthWest Missouri State University and this is my final semester.  I'm working as software developer at Learning and Teaching Center at NWMSU. Also, I'm Working as Graduate Assistant for CS class.
 
